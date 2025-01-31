@@ -16,7 +16,7 @@ I'm **eclipse**, a freelancing developer with a passion for **ethical hacking** 
 
 I love working with a variety of programming languages and technologies, especially those that help me create efficient, high-performance tools for security and development. Here's a snapshot of the languages and platforms I use regularly:
 
-[![My Skills](https://skillicons.dev/icons?i=arch,linux,debian,cs,py,php,js,html,mysql,css,go,arduino,discord,aftereffects,robloxstudio&perline=50)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=arch,linux,debian,cs,go,py,js,html,mysql,css,npm,flask,aftereffects,ps,robloxstudio,windows,powershell&perline=50)](https://skillicons.dev)
 
 ### Platforms & Tools:
 
