@@ -42,8 +42,8 @@ I love working with a variety of programming languages and technologies, especia
 
 I believe in continuous improvement and active learning, and my contributions reflect that. Below are my GitHub stats and the most-used languages in my repositories.
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=eclipse&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=eclipse&layout=compact&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sexhax&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sexhax&layout=compact&theme=radical)
 
 ---
 
@@ -52,5 +52,7 @@ I believe in continuous improvement and active learning, and my contributions re
 I’m always eager to meet fellow developers and security enthusiasts. Feel free to reach out if you’re interested in collaborating, or just want to chat about tech!
 
 - **GitHub**: [github.com/eclipse](https://github.com/sexhax)
+- **Discord**: [O8xz_](https://discord.com/users/1329066711449735211/)
+
 
 ---
