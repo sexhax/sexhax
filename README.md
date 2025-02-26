@@ -52,7 +52,7 @@ I believe in continuous improvement and active learning, and my contributions re
 I’m always eager to meet fellow developers and security enthusiasts. Feel free to reach out if you’re interested in collaborating, or just want to chat about tech!
 
 - **GitHub**: [github.com/eclipse](https://github.com/sexhax)
-- **Discord**: [O8xz_](https://discord.com/users/1329066711449735211/)
+- **Discord**: [skidmaxxing](https://discord.com/users/1329066711449735211/)
 
 
 ---
